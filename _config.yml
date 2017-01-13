@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+name: Code Yogi
+description: Monk's wisdom to the spritual computing
+footer-links:
+    github: HandOfGod94
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+exclude:
+  - Gemfile
+  - Gemfile.lock
