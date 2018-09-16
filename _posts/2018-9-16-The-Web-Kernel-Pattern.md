@@ -1,4 +1,6 @@
-# The Web Kernel Pattern
+What if we apply the same design principle used in developing OS
+to design a complex web application?
+A brief description on how this can be achieved.
 
 ## History
 
