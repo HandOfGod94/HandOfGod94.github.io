@@ -1,4 +1,7 @@
-# Empathy and Pair Programming
+---
+layout: post
+title: Empathy and Pair Programming
+---
 
 > The views expressed are my personal opinions and is in no way to harm other.
 
