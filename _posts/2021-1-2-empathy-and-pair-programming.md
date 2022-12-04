@@ -3,19 +3,19 @@
 > The views expressed are my personal opinions and is in no way to harm other.
 
 ### First few questions:
-- how many times have you lost your temper during code reviews?
-- do you feel your contribution is the best/worst in the team?
+- How many times have you lost your temper during code reviews?
+- Do you feel your contribution is the best/worst in the team?
 
 If yes, please follow along.
 
 ```
 Emapthy: the ability to understand and share the feelings of another.
 
-# source: google
+# source: oxford
 ```
 
 Our industry requires continuous interaction with our coworkers even though the output or 
-product that we produce is completely artificial. Why?
+product that we produce is non-tangible. Why?
 
 The problems our industry is trying to solve is highly coupled with interactions of humankind.
 - not able to get a cab. Solution: Uber/Ola/Gojek/Grab
